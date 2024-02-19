@@ -25,12 +25,12 @@ body {
 
   button, .btn{
     position: absolute;
-    bottom: 26.5%;
+    bottom: 15%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: underline;
-    font-size: large;
+    font-size: 2vh;
   }
 
   a:link{
