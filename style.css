@@ -25,7 +25,7 @@ body {
 
   button, .btn{
     position: absolute;
-    bottom: 15%;
+    bottom: 20%;
     left: 50%;
     transform: translate(-50%, -50%);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
